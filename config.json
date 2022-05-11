@@ -1,6 +1,6 @@
 {
-    "flexclub_address": "0x07e87898d92d68033B7A5bB1F830502C79A54E3F",
-    "flexnft_address": "0xDd371c621F3f908F841AF8198718Efd05726F42D",
+    "flexclub_address": "0x49ab8Ec181dD5357b9Fc19d9AB4Adbd7DE121256",
+    "flexnft_address": "0xdAffcb3EAD9479e408134AF1c2533C5299c8c4b7",
     "eth_amount": "100000000000000000000",
-    "genesis_block": 24808523
+    "genesis_block": 25158110
 }
